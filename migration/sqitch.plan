@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=mindlink_sqitch
+
+mindlink_v1_create_tables 2022-08-13T16:55:11Z baptiste,,, <baptiste@baptiste-VirtualBox> # Create tables
